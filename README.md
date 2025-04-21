@@ -32,8 +32,8 @@ This repository contains a hybrid solver that optimizes a drone delivery route u
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Jnan-py/drone-delivery-tsp-solver.git
-   cd drone-delivery-tsp-solver
+   git clone https://github.com/Jnan-py/drone-delivery-optimiser-QAOA.git
+   cd drone-delivery-optimiser-QAOA
    ```
 
 2. **Set up a virtual environment (optional but recommended):**
